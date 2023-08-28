@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezgisevgili
 - 👀 I’m interested in with software.
 - 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Linkledin
 - 📫 How to reach me ...
 
 <!---
