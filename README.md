@@ -15,7 +15,7 @@
    </td>
   <td style="display: block; margin: 0 auto;
     padding: 0;">
-<img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
+    <img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" />
   </td>
  </tr>
 </table>
